@@ -6,6 +6,5 @@ A brazilian student in information systems area </br>
 </p>
 </br>
 
-<p align="center">
 Lista para futuros projetos e desenvolvimento profissional.
-</p>
+
