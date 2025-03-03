@@ -1,3 +1,3 @@
-# Hi there, I'm Lucas👋
+# Hi there👋, I'm Lucas🙋‍♂️
 A brazilian student in information systems area </br>
-![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
